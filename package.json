@@ -1,0 +1,12 @@
+{
+  "name": "codevault",
+  "version": "1.0.0",
+  "description": "Code Snippets all in one place.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Egbuawa",
+  "license": "ISC"
+}
